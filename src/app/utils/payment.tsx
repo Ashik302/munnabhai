@@ -53,8 +53,8 @@ const Payment = ({ totalPrice }: { totalPrice: number }) => {
       <input type="hidden" name="product_delivery_charge" value="0" />
 
       {/* Success and failure URLs */}
-      <input type="hidden" name="success_url" value="http://localhost:3000/sucess/invoice" />
-      <input type="hidden" name="failure_url" value="http://localhost:1010/failure" />
+      <input type="hidden" name="success_url" value="https://munnasaloon.vercel.app/sucess/invoice" />
+      <input type="hidden" name="failure_url" value="https://munnasaloon.vercel.app/sucess/invoice" />
 
       <input
         type="submit"
