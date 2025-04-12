@@ -1,0 +1,99 @@
+{
+    "menu_items": [
+      {
+        "title": "Hair Cutting",
+        "common": 150
+      },
+      {
+        "title": "Children's Haircut",
+        "common": 70
+      },
+      {
+        "title": "Ladies Kapal Cutting",
+        "common": 150
+      },
+      {
+        "title": "Beard Grooving",
+        "common": 100
+      },
+      {
+        "title": "Hair Hair Samphoo",
+        "common": 100
+      },
+      {
+        "title": "Black Hair Color",
+        "common": 250,
+        "premium": 350
+      },
+      {
+        "title": "Face Wash With Special Color",
+        "common": 500
+      },
+      {
+        "title": "Face Pack Application",
+        "common": 200
+      },
+      {
+        "title": "Face Cleansing",
+        "common": 350
+      },
+      {
+        "title": "Face Wash",
+        "common": 400
+      },
+      {
+        "title": "Head Massage",
+        "common": 150
+      },
+      {
+        "title": "Gold Massage",
+        "common": 300,
+        "premium": 500
+      },
+      {
+        "title": "Threading",
+        "common": 100
+      },
+      {
+        "title": "Hair Straight",
+        "common": 1500,
+        "premium": 2500
+      },
+      {
+        "title": "Service Charge for Hair Coloring",
+        "common": 150
+      },
+      {
+        "title": "Hair Iron",
+        "common": 500
+      },
+      {
+        "title": "Hair Set with Dry Machine",
+        "common": 200
+      },
+      {
+        "title": "Hair Treatment",
+        "common": 300,
+        "premium": 400
+      },
+      {
+        "title": "Side Setting",
+        "common": 100
+      },
+      {
+        "title": "Home Service (Per Person)",
+        "common": 600
+      },
+      {
+        "title": "Hair Highlight",
+        "common": 500,
+        "premium": 700
+      },
+      {
+        "title": "Facial (Special)",
+        "common": 1500,
+        "premium": 2500
+      }
+    ]
+  }
+  

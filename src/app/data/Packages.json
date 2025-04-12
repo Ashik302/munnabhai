@@ -1,0 +1,56 @@
+{
+    "grooming_packages": [
+      {
+        "name": "Basic Grooming Package",
+        "services": [
+          "Hair Cutting",
+          "Beard Grooving",
+          "Hair Wash",
+          "Head Massage"
+        ],
+        "individual_total": 500,
+        "package_price": 450
+      },
+      {
+        "name": "Deluxe Grooming Package",
+        "services": [
+          "Hair Cutting",
+          "Beard Grooving",
+          "Hair Wash",
+          "Head Massage",
+          "Face Wash",
+          "Face Cleansing"
+        ],
+        "individual_total": 1250,
+        "package_price": 1100
+      },
+      {
+        "name": "Premium Grooming & Relax Package",
+        "services": [
+          "Hair Cutting",
+          "Beard Grooving",
+          "Hair Wash",
+          "Hair Coloring (Premium)",
+          "Head Massage",
+          "Gold Massage (Premium)",
+          "Facial (Special - Premium)"
+        ],
+        "individual_total": 3850,
+        "package_price": 3400
+      },
+      {
+        "name": "At-Home VIP Grooming",
+        "services": [
+          "Hair Cutting",
+          "Beard Grooving",
+          "Hair Wash",
+          "Head Massage",
+          "Facial (Special - Common)",
+          "Home Service (Per Person)"
+        ],
+        "individual_total": 2600,
+        "package_price": 2300
+      }
+    ]
+  }
+  
