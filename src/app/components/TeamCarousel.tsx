@@ -7,6 +7,7 @@ import { MapPin } from "lucide-react"; // Using MapPin icon instead of LocationM
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
+import Image from "next/image";
 
 const team = [
   {
@@ -67,7 +68,7 @@ const TeamCarousel = () => {
               whileHover={{ scale: 1.03 }}
               className="bg-white shadow-xl rounded-xl p-6 text-center transition-all"
             >
-              <img
+              <Image
                 src={person.image}
                 alt={person.name}
                 className="w-32 h-32 object-cover rounded-full mx-auto mb-4"

@@ -26,7 +26,7 @@ const AboutUsSection = () => {
         transition={{ delay: 0.2, duration: 0.6 }}
         className="text-gray-700 text-lg text-center max-w-3xl mx-auto leading-relaxed"
       >
-        ShearCraft Studio is a premier men's grooming destination with branches in Narayangarh and Gaindakot. 
+        ShearCraft Studio is a premier men&apos;s grooming destination with branches in Narayangarh and Gaindakot. 
         We specialize in barbering, beard care, and modern styling, ensuring an exceptional experience for every client.
       </motion.p>
 

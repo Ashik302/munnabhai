@@ -37,17 +37,17 @@ export async function POST(req: Request) {
       </table>
     `;
 
-    const consumerMessage = `
-      <h2>Appointment Confirmation</h2>
-      <p>Hello ${data.username},</p>
-      <p>Your booking has been confirmed.</p>
-      <p><strong>Payment Status:</strong> ${data.trans_status}</p>
-      ${invoiceTable}
-      <p><strong>Total:</strong> Rs. ${data.totalPrice}</p>
-      <p><strong>Branch:</strong> ${data.branch}</p>
-      <p><strong>Phone:</strong> ${data.phone}</p>
-      <p>We’ll contact you if we need to adjust your schedule due to other appointments.</p>
-    `;
+    // const consumerMessage = `
+    //   <h2>Appointment Confirmation</h2>
+    //   <p>Hello ${data.username},</p>
+    //   <p>Your booking has been confirmed.</p>
+    //   <p><strong>Payment Status:</strong> ${data.trans_status}</p>
+    //   ${invoiceTable}
+    //   <p><strong>Total:</strong> Rs. ${data.totalPrice}</p>
+    //   <p><strong>Branch:</strong> ${data.branch}</p>
+    //   <p><strong>Phone:</strong> ${data.phone}</p>
+    //   <p>We’ll contact you if we need to adjust your schedule due to other appointments.</p>
+    // `;
 
     const ownerMessage = `
       <h2>New Appointment Booking</h2>
